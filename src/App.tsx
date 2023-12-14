@@ -27,10 +27,42 @@ export function App() {
       <Header variant="h5">Добавление данных в базу</Header>
       <Typography>
         <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shrRwXIMOfABYcpnx"
+          target="_blank"
+        >
+          Форма "Новый клиент"
+        </Link>
+      </Typography>
+      <Typography>
+        <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shr6n3QYRVn288LCs"
+          target="_blank"
+        >
+          Форма "Новый контракт"
+        </Link>
+      </Typography>
+      <Typography>
+        <Link
           href="https://airtable.com/app4KDYT6oXxPnrSL/shrCANLA0tS3DMCjW"
           target="_blank"
         >
           Форма "Новая поставка"
+        </Link>
+      </Typography>
+      <Typography>
+        <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shrQaFxVHlVG8Mo6E"
+          target="_blank"
+        >
+          Форма "Новая закупка"
+        </Link>
+      </Typography>
+      <Typography>
+        <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shrWa4tpEontKIxyr"
+          target="_blank"
+        >
+          Форма "Новое крестьянское хозяйство"
         </Link>
       </Typography>
       <Typography>
