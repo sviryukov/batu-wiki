@@ -20,14 +20,25 @@ export function App() {
       <Helmet defaultTitle={siteTitle} />
       <Header variant="h4">БатуАгро - полезные ссылки</Header>
       <Typography>
-        <Link href="https://airtable.com/apppbGIRqGOxPbx7N">
+        <Link href="https://airtable.com/app4KDYT6oXxPnrSL" target="_blank">
           Корпоративная база данных
         </Link>
       </Typography>
-      <Header variant="h5">Работа с клиентами</Header>
+      <Header variant="h5">Добавление данных в базу</Header>
       <Typography>
-        <Link href="https://airtable.com/apppbGIRqGOxPbx7N/shr70epZ7cge0MeDo">
-          Форма для сохранения предварительных данных клиента
+        <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shrCANLA0tS3DMCjW"
+          target="_blank"
+        >
+          Форма "Новая поставка"
+        </Link>
+      </Typography>
+      <Typography>
+        <Link
+          href="https://airtable.com/app4KDYT6oXxPnrSL/shrRSJSVqIamMGdxi"
+          target="_blank"
+        >
+          Форма "Новый план"
         </Link>
       </Typography>
     </Container>
